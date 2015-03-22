@@ -1,3 +1,5 @@
+#CODEBOOK 
+
 The dataset presented in this repository is derived from the "Human Activity Recognition Using Smartphones Data Set" originally downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Feature Selection
